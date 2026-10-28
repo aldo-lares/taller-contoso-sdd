@@ -1,0 +1,5 @@
+- Responde siempre en español y explica cada paso en lenguaje sencillo: los usuarios no son desarrolladores.
+- Respeta `.specify/memory/constitution.md`. Si una petición la contradice, dilo y propone una alternativa.
+- La spec describe qué y por qué; no pongas tecnología en `spec.md`. La tecnología va en `plan.md`.
+- Pregunta antes de crear, modificar o borrar tablas, apps o soluciones en Power Platform.
+- Nunca guardes credenciales ni secretos en el repositorio.
